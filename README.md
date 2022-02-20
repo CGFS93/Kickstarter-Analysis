@@ -31,9 +31,11 @@ Formating the data to obtain results for the chart “Outcomes Based on Goals”
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- May to December isn’t optimal to launch a theater campaign on Kickstarter.
+- January to April have better odds of success for a theater campaign launch.
 
-- What can you conclude about the Outcomes based on Goals?
+- the optimal goal range for successful theater campaigns is less than 1,000 to 5,000. 
+- Success rate diminishes with increased goal range. 
 
 - What are some limitations of this dataset?
 
