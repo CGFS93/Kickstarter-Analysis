@@ -21,6 +21,8 @@ The data on the chart “Theater Outcomes Based on Launch Dates” presents a co
 
 ### Analysis of Outcomes Based on Goals
 
+The data presented on the chart “Outcomes Based on Goals” is a percentage of successful, failed, and canceled Plays campaigns subcategory based on the monetary range of the Goal amount. The chart layout represents the Percentage of successful, failed, and canceled campaigns on the left vertical axis. On the bottom horizontal axis, the chart is representing the monetary range of the goal amount. Starting on the bottom left from less than 1,000 to more than 50,000 on the far bottom right. The blue plotted line on the chart is representative of the percentage of successful campaigns based on goal amounts. The orange plotted line on the chart is representative of the percentage of failed campaigns based on goal amounts. The silver plotted line on the chart is representative of canceled campaigns based on goal amounts. There is a strong trend between successful and failed campaigns displayed by the chart “Outcomes Based on Goals”. The successful campaign trends are tied to failed campaigns; as the percentage of successful campaigns starts to drop the percentage of failed campaigns will increase. There were similar trends or some relation between successful and failed campaigns on the previous chart “Theater Outcomes Based on Launch Dates” but not so tightly correlated as in this chart. Another data point this chart suggests is that higher goal amounts have a lower percentage of success.  
+
 ![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
