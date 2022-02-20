@@ -27,6 +27,8 @@ The data presented on the chart “Outcomes Based on Goals” is a percentage of
 
 ### Challenges and Difficulties Encountered
 
+Formating the data to obtain results for the chart “Outcomes Based on Goals” was challenging due to the range of monetary goal amounts. Using the formula [=countifs] was a difficulty encountered! I realized how valuable VBA is when many changing arguments are present. The solution was to create a new worksheet with references for the arguments. Finally, self-reference the formula with the “find and replace” option.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
