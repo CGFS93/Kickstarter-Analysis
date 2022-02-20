@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This is an analysis of filtered data from theater and plays campaigns on Kickstarter. The targeted outcomes are to find an optimal launch date and monetary goal amounts for successful theater campaign launch on Kickstarter.
+This is an analysis of filtered data from theater and plays campaigns on Kickstarter. The targeted outcomes are to find an optimal launch date and monetary goal amounts for a successful theater campaign launch on Kickstarter.
 
 ### Purpose
 
