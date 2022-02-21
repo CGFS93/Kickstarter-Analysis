@@ -2,16 +2,15 @@
 
 ## Overview of Project
 
-This is an analysis of filtered data from theater and plays campaigns on Kickstarter. The targeted outcomes are to find an optimal launch date and monetary goal amounts for a successful theater campaign launch on Kickstarter.
+The target outcome of this analysis is to find an optimal launch date and monetary goal amount for a better rate of success when launching a theater campaign using Kickstarter. The dataset provided for this analysis uses a vast array of data from multiple Kickstarter campaign categories.
 
 ### Purpose
 
-The analysis answers two key questions when creating a new theater campaign on Kickstarter. Both, when is the best month to launch the campaign, and what is the optimum range for the monetary goal amount? The data is broken down into two categories theater outcomes vs launch dates and plays outcomes vs goal amount. 
+The analysis exhibits the data to show the best months to launch a successful campaign and the optimum range for the monetary goal amount. The data is broken down into two categories; theater outcomes vs launch dates, and plays outcomes vs goal amount.
 
 ## Analysis and Challenges
 
-The main challenge with this analysis is filtering the relevant data. The analysis only called for relevant campaign data to theater/plays: categories/subcategories, but the data sets contained vast rages of categories/subcateries. The analysis’s purpose is to answer two key questions; (1) when is the best month to launch a theater/play campaign? (2) what is the optimum range for a monetary goal amount for a theater/play campaign on Kickstarter? So, the data is filtered to only show theater category and plays subcategory. Another challenge is the format of certain data sets such as dates that were formatted using [Epoch Converter.](https://www.epochconverter.com/)
-From this point, the sorted data was transferred into pivot tables and charts to be visualized.
+A challenge with this analysis is extrapolating the relevant data to only show theater category and plays subcategories. The purpose of the analysis is to indicate when is the best month to launch a theater campaign, and what is the optimum range on a monetary goal amount for a Kickstarter campaign. Bases on the original dataset categories and subcategories were required to be refined to remove the irrelevant data. Aside from the irrelevant data, the way dates were presented in the dataset was difficult to deduce based on how it was formatted. This challenge was overcome by using [Epoch Converter](https://www.epochconverter.com/) which reconfigured the composition of the data into measurable data. From this point, the sorted data was transferred into pivot tables and charts to be visualized.
 
 ### Analysis of Outcomes Based on Launch Date
 
