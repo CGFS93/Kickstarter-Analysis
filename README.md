@@ -39,10 +39,9 @@ Formating the data to obtain results for the chart “Outcomes Based on Goals”
 - Success rate of the campaign is diminished with the increased range for a monetary goal amount. 
 
 -What are some limitations of this dataset?
-- The dataset is limited by the amount of data provided on the category "theater".
-- The dataset contains a lot of usless data for the purpose of a theater campaigns.
-- The dataset lacked information on campaign's social media presence.
+- The dataset for "outcomes vs goals" measured goal range amount but the country or currency is not specified in the data.
+- ($) is used as a reference to moneraty value since currency in unknown in the data. 
 
 -What are some other possible tables and/or graphs that we could create?
 - A graph displaying the duration of campaigns; Outcome vs Duration.
-- A table of descriptive statistics with charts; mean, median, standard deviation, upper & lower Quartile, IQR. 
+- The dataset lacked information on campaign's social media presence. 
