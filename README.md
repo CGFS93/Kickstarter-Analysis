@@ -10,7 +10,7 @@ The analysis answers two key questions when creating a new theater campaign on K
 
 ## Analysis and Challenges
 
-The main challenge with this analysis is filtering the relevant data. The analysis only called for relevant campaign data to theater/play categories/subcategories, but the data sets contained vast rages of categories/subcateries. The analysis’s purpose is to answer two key questions; (1) when is the best month to launch a theater/play campaign? (2) what is the optimum range for a monetary goal amount for a theater/play campaign on Kickstarter? So, the data is filtered to only show theater category and plays subcategory. Another challenge is the format of certain data sets such as dates that were formatted using [Epoch Converter.](https://www.epochconverter.com/)
+The main challenge with this analysis is filtering the relevant data. The analysis only called for relevant campaign data to theater/plays: categories/subcategories, but the data sets contained vast rages of categories/subcateries. The analysis’s purpose is to answer two key questions; (1) when is the best month to launch a theater/play campaign? (2) what is the optimum range for a monetary goal amount for a theater/play campaign on Kickstarter? So, the data is filtered to only show theater category and plays subcategory. Another challenge is the format of certain data sets such as dates that were formatted using [Epoch Converter.](https://www.epochconverter.com/)
 From this point, the sorted data was transferred into pivot tables and charts to be visualized.
 
 ### Analysis of Outcomes Based on Launch Date
