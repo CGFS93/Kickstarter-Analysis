@@ -10,7 +10,7 @@ The analysis exhibits the data to show the best months to launch a successful ca
 
 ## Analysis and Challenges
 
-A challenge with this analysis is extrapolating the relevant data to only show theater category and plays subcategories. The purpose of the analysis is to indicate when is the best month to launch a theater campaign, and what is the optimum range on a monetary goal amount for a Kickstarter campaign. Bases on the original dataset categories and subcategories were required to be refined to remove the irrelevant data. Aside from the irrelevant data, the way dates were presented in the dataset was difficult to deduce based on how it was formatted. This challenge was overcome by using [Epoch Converter](https://www.epochconverter.com/) which reconfigured the composition of the data into measurable data. From this point, the sorted data was transferred into pivot tables and charts to be visualized.
+A challenge with this analysis is extrapolating the relevant data to only show theater category and plays subcategories. The purpose of the analysis is to indicate when is the best month to launch a theater campaign, and what is the optimum range on a monetary goal amount for a Kickstarter campaign. Based on the original dataset categories and subcategories were required to be refined to remove the irrelevant data. Aside from the irrelevant data, the way dates were presented in the dataset was difficult to deduce based on how it was formatted. This challenge was overcome by using [Epoch Converter](https://www.epochconverter.com/) which reconfigured the composition of the data into measurable data. From this point, the sorted data was transferred into pivot tables and charts to be visualized.
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -35,7 +35,7 @@ Formating the data to obtain results for the chart “Outcomes Based on Goals”
 - January to April have better odds of success for a theater campaign launch.
 
 -What can you conclude about the Outcomes based on Goals?
-- The optimal range for monetary goal amount of successful theater campaigns is less than 1,000 to 5,000. 
+- The optimal range of a monetary goal amount for a successful theater campaigns is less than $1,000 to $5,000. 
 - Success rate diminishes with increased goal range. 
 
 -What are some limitations of this dataset?
